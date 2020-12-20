@@ -40,6 +40,18 @@ const Footer = () => (
         <FooterWrapper>
           <StyledContainer>
             <Copyright>
+            <h2>İLETİŞİM</h2>
+              <div>
+                <p>
+                  <b>Adres:</b><br />
+                  <a href='https://g.page/hasanbasrisari?share'>
+                  Feritpaşa Mh. Ulaşbaba Cd. Mustafa Kaya İş Merkezi No 24 Daire 301<br />Selçuklu/KONYA<br />
+                  </a>
+                  <br /><b>Telefon:</b>
+                  <br /><a href="tel://+903322341411">0(332) 234 14 11</a><br />
+                  <a href="tel://+905546706058">0(554) 670 60 58</a>
+                </p>
+              </div>
               <h2>Av. Hasan Sabri Sarı</h2>
               <span>
               © 2020 | SEO Uzmanı
