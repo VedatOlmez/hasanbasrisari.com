@@ -2,6 +2,14 @@ const path = require('path');
 
 module.exports = {
   plugins: [
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        // replace "UA-XXXXXXXXX-X" with your own Tracking ID
+        trackingId: "G-BT79WW9GL9",
+        head: true,
+      },
+    },
     `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-plugin-svgr`,
@@ -13,12 +21,6 @@ module.exports = {
         },
       },
     },
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        trackingId: "G-BT79WW9GL9",
-        head: true,
-      },
     `gatsby-plugin-styled-components`,
     {
       resolve: `gatsby-source-filesystem`,
