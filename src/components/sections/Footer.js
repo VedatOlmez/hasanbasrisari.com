@@ -52,7 +52,7 @@ const Footer = () => (
                   <a href="tel://+905546706058">0(554) 670 60 58</a>
                 </p>
               </div>
-              <h2>Av. Hasan Sabri Sarı</h2>
+              <h2>Av. Hasan Basri Sarı</h2>
               <span>
               © 2020 | SEO Uzmanı
                 {` `}
