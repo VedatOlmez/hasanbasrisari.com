@@ -54,7 +54,7 @@ Boşanma avukatlarımız, evlilik öncesinde veya evlilik devam ederken evlilik 
     ),
   },
   {
-    title: 'Anlaşmalı Boşanma Davası Hakkında Genel Bilgiler',
+    title: 'Konya Anlaşmalı Boşanma Davası Hakkında Genel Bilgiler',
     content: () => (
       <>
         Eşlerin en az birinde oluşan boşanma isteği ile boşanma süreci başlayabilmektedir. Boşanma davasının Aile Mahkemesinde açılması gerekmektedir. Yetkili mahkeme ise eşlerden birinin yerleşim yeri ya da eşlerin son defa altı aydan beri birlikte oturdukları yer mahkemesidir. Anlaşmalı boşanma, çekişmeli boşanmaya göre dava pratik, hızlı bir şekilde sonuçlanmaktadır.
@@ -80,7 +80,7 @@ Anlaşmalı boşanma davası, çekişmeli boşanma davasına göre daha hızlı 
     ),
   },
   {
-    title: 'Çekişmeli Boşanma Davası Hakkında Genel Bilgiler',
+    title: 'Konya Çekişmeli Boşanma Davası Hakkında Genel Bilgiler',
     content: () => (
       <>
         Çekişmeli boşanma davası, yine eşlerden en az birinin boşanma isteği doğrultusunda açılan, boşanma ve sonuçlarının protokolle değil, kusur oranları değerlendirilerek tesis edilen mahkeme kararı ile düzenlendiği dava türüdür. Çekişmeli boşanmada eşler arasında boşanma iradesi bakımından bir ortaklık olmayabilir. Eşlerden yalnızca biri boşanmayı istiyor olabilir ya da her ikisi de boşanmayı istiyor olsa da taraflar daha az kusurlu ya da kusursuz olduğunu düşünüyor olabilir.
@@ -95,7 +95,7 @@ Boşanma davası sonrasında tazminatlar bir süreklilik arz etmese de nafakalar
     ),
   },
   {
-    title: 'Boşanma Sonrası Mal Paylaşımı',
+    title: 'Konya Boşanma Sonrası Mal Paylaşımı',
     content: () => (
       <>
         Boşanma davası sonunda velayet, tazminatlar, nafaka gibi hususların yanı sıra mal rejimi ve sonuçları da gündeme gelmektedir. Mal rejimleri, boşanmadan sonraki süreçte önem taşımaktadır. Özellikle yasal mal rejimi olan edinilmiş mallara katılma rejimi ve sıklıkla görülen mal ayrılığı rejimi eşlerce iyi bir şekilde öğrenilmelidir. Edinilmiş mallara katılma rejimi yasal rejim olduğundan özellikle kararlaştırılmasına gerek yoktur. Ancak sıklıkla tercih edilen mal ayrılığı rejiminin seçilmesi ve kararlaştırılan hususların Mal ayrılığı rejimi sözleşmesi üzerinde geçerli bir şekilde ifade edilmesi önemlidir.
@@ -142,7 +142,7 @@ Nafaka ve tazminat alacaklarının tahsili için icra işlemleri yapılması
     ),
   },
   {
-    title: 'Anlaşmalı Boşanma',
+    title: 'Konya Anlaşmalı Boşanma',
     content: () => (
       <>
         Türk Hukukunda kanun koyucu, eşlerin iradelerine de önem vererek anlaşmalı boşanma kurumunu düzenlemiştir. Aile birliğinin varlığını devam ettirme amacı taşıyan Türk Medeni Kanunu hükümlerine göre anlaşmalı boşanma hususu da belli başlı şartlara bağlı tutulmuştur. 4721 sayılı Türk Medeni Kanununun 166/II maddesinde düzenlenen anlaşmalı boşanmanın gerçekleşebilmesi için şu şartların varlığı gerekmektedir:
@@ -163,7 +163,7 @@ Anlaşmalı boşanma ilişkin taraflar arasında düzenlenen protokol belli baş
     ),
   },
   {
-    title: 'Anlaşmalı Boşanma Davası Süreci',
+    title: 'Konya Anlaşmalı Boşanma Davası Süreci',
     content: () => (
       <>
         Eşler, anlaşmalı boşanma davasını kendileri açabileceği gibi avukatları aracılığıyla da bu işlemi gerçekleştirebilirler. Anlaşmalı boşanma davası sürecinde dikkat edilmesi gereken hususlar söz konusudur. Bunlara kısaca değinmek gerekirse:
@@ -183,7 +183,7 @@ Yetkili Mahkeme : Anlaşmalı boşanma davasında yetkili mahkemenin tayini içi
     ),
   },
   {
-    title: 'Anlaşmalı Boşanma Davası Hakkında Genel Bilgiler',
+    title: 'Konya Anlaşmalı Boşanma Davası Hakkında Genel Bilgiler',
     content: () => (
       <>
         Eşlerin en az birinde oluşan boşanma isteği ile boşanma süreci başlayabilmektedir. Boşanma davasının Aile Mahkemesinde açılması gerekmektedir. Yetkili mahkeme ise eşlerden birinin yerleşim yeri ya da eşlerin son defa altı aydan beri birlikte oturdukları yer mahkemesidir. Anlaşmalı boşanma, çekişmeli boşanmaya göre dava pratik, hızlı bir şekilde sonuçlanmaktadır.
@@ -200,7 +200,7 @@ Anlaşmalı boşanma davası, çekişmeli boşanma davasına göre daha hızlı 
     ),
   },
   {
-    title: 'Çekişmeli Boşanma',
+    title: 'Konya Çekişmeli Boşanma',
     content: () => (
       <>
         Çekişmeli boşanma davası, yine eşlerden en az birinin boşanma isteği doğrultusunda açılan, boşanma ve sonuçlarının protokolle değil, kusur oranları değerlendirilerek tesis edilen mahkeme kararı ile düzenlendiği dava türüdür. Çekişmeli boşanmada eşler arasında boşanma iradesi bakımından bir ortaklık olmayabilir. Eşlerden yalnızca biri boşanmayı istiyor olabilir ya da her ikisi de boşanmayı istiyor olsa da taraflar daha az kusurlu ya da kusursuz olduğunu düşünüyor olabilir.
@@ -217,7 +217,7 @@ Boşanma davası sonrasında tazminatlar bir süreklilik arz etmese de nafakalar
     ),
   },
   {
-    title: 'Çekişmeli Boşanma Davası',
+    title: 'Konya Çekişmeli Boşanma Davası',
     content: () => (
       <>
         Türk Medeni Kanunu’nun 166’inci maddesinde genel boşanma nedenlerinden biri olarak evlilik birliğinin sarsılması düzenlenmiştir. Şayet evlilik birliği temelinden sarsılmış ve evlilik birliğinin sürdürülmesi eşlerin kendilerinden beklenmeyecek derecede güçleşmişse, eşlerden her biri boşanma davası açabilir. Davacının kusuru daha ağır olursa, davalının açılan davaya itiraz hakkı vardır. Hakkın kötüye kullanılması halinde, evlilik birliliğin devamının davalı ve çocuklar bakımından korunmaya değer bir yararı kalmamışsa, boşanmaya karar verilebilir. Evlilik en az bir yıl sürmüşse, eşlerin boşanma için birlikte başvurması (anlaşmalı boşanma) veya eşin diğerinin davasını kabul etmesi halinde, evlilik birliği temelinden sarsılmış sayılır. Bu durumda hakimin boşanma kararı verebilmesi için tarafları bizzat dinlemesi şarttır. Hakim, eşlerin ve çocukların menfaatlerini dikkate alarak eşler arasındaki anlaşmada gerekli gördüğü takdirde düzeltme yapabilir.
@@ -225,7 +225,7 @@ Boşanma davası sonrasında tazminatlar bir süreklilik arz etmese de nafakalar
     ),
   },
   {
-    title: 'Çekişmeli Boşanma Davası Nasıl Açılır?',
+    title: 'Konya Çekişmeli Boşanma Davası Nasıl Açılır?',
     content: () => (
       <>
         Eğer hakim herhangi bir sebeple boşanma davasını reddetmişse ve ret kararı kesinleştikten itibaren üç yıl boyunca her ne sebeple olursa olsun ortak hayat yeniden kurulamamışsa evlilik birliği temelinden sarsılmış sayılır ve eşlerden birinin istemi üzerine boşanmaya karar verilir.
@@ -236,7 +236,7 @@ Tek taraflı boşanma iradesinin sunulması ile boşanma kararı verilmez. Boşa
     ),
   },
   {
-    title: 'Çekişmeli Boşanma Davası Hakkında Genel Bilgiler',
+    title: 'Konya Çekişmeli Boşanma Davası Hakkında Genel Bilgiler',
     content: () => (
       <>
         Çekişmeli boşanma davası, yine eşlerden en az birinin boşanma isteği doğrultusunda açılan, boşanma ve sonuçlarının protokolle değil, kusur oranları değerlendirilerek tesis edilen mahkeme kararı ile düzenlendiği dava türüdür. Çekişmeli boşanmada eşler arasında boşanma iradesi bakımından bir ortaklık olmayabilir. Eşlerden yalnızca biri boşanmayı istiyor olabilir ya da her ikisi de boşanmayı istiyor olsa da taraflar daha az kusurlu ya da kusursuz olduğunu düşünüyor olabilir.
@@ -253,7 +253,7 @@ Boşanma davası sonrasında tazminatlar bir süreklilik arz etmese de nafakalar
     ),
   },
   {
-    title: 'Boşanmada Tazminat Davası',
+    title: 'Konya Boşanmada Tazminat Davası',
     content: () => (
       <>
         Türk Medeni Kanunu’nun 174’inci maddesine göre “Mevcut veya beklenen menfaatleri boşanma yüzünden zedelenen kusursuz veya daha az kusurlu taraf, kusurlu taraftan uygun bir maddî tazminat isteyebilir. Boşanmaya sebep olan olaylar yüzünden kişilik hakkı saldırıya uğrayan taraf, kusurlu olan diğer taraftan manevî tazminat olarak uygun miktarda bir para ödenmesini isteyebilir.” Bu maddeye ilişkin olarak Yargıtay 2. Hukuk Dairesi “Zina kişilik haklarına tecavüz oluşturduğundan, kusursuz eş lehine boşanma ile birlikte manevi tazminata da hükmedilmesi gerekir” şeklinde karar vermiştir.
@@ -270,7 +270,7 @@ Eşin manevi tazminata hak kazanabilmesi için ise kusursuz olması gerekmektedi
     ),
   },
   {
-    title: 'Yasal Mal Rejiminin Sona Erme Tarihi',
+    title: 'Konya Yasal Mal Rejiminin Sona Erme Tarihi',
     content: () => (
       <>
         Mal paylaşımı davası olarak bilinen, boşanma sonucunda mal rejiminin tasfiyesi Türk Medeni Kanunu (TMK) 202. ve devamı maddelerinde düzenlenmiştir. Buna göre eşler arasındaki yasal mal rejimi, edinilmiş mallara katılma rejimidir. Eşler aralarında başka bir mal rejimi belirlememişlerse kanunen bu mal rejimine tabi olacaklardır.
@@ -287,7 +287,7 @@ Eşler yapacakları sözleşme ile mal ayrılığı rejimini kabul edebilecekler
     ),
   },
   {
-    title: 'Evlilikten Sonra Ortak Malların Paylaşımı',
+    title: 'Konya Evlilikten Sonra Ortak Malların Paylaşımı',
     content: () => (
       <>
         Aile Mahkemesi tarafından boşanma kararı verilmesi halinde, mal rejimi dava tarihinden itibaren sona ermiş sayılır. Yani bu durumda evlilik birliği içerisinde edinilmiş mallar, aktifi ve pasifi ile boşanma davasının açıldığı tarihteki durumuna göre değerlendirilerek tasfiye edilir.
@@ -304,7 +304,7 @@ Boşanma davasının reddedilmesi durumunda mal rejiminin tasfiyesine yönelik d
     ),
   },
   {
-    title: 'Boşanma Sonrası Mal Paylaşımı',
+    title: 'Konya Boşanma Sonrası Mal Paylaşımı',
     content: () => (
       <>
         Boşanma davası sonunda velayet, tazminatlar, nafaka gibi hususların yanı sıra mal rejimi ve sonuçları da gündeme gelmektedir. Mal rejimleri, boşanmadan sonraki süreçte önem taşımaktadır. Özellikle yasal mal rejimi olan edinilmiş mallara katılma rejimi ve sıklıkla görülen mal ayrılığı rejimi eşlerce iyi bir şekilde öğrenilmelidir. Edinilmiş mallara katılma rejimi yasal rejim olduğundan özellikle kararlaştırılmasına gerek yoktur. Ancak sıklıkla tercih edilen mal ayrılığı rejiminin seçilmesi ve kararlaştırılan hususların Mal ayrılığı rejimi sözleşmesi üzerinde geçerli bir şekilde ifade edilmesi önemlidir.
@@ -315,7 +315,7 @@ Unutulmamalıdır ki mal rejimleri, evlilikten önce düzenlenebildiği gibi evl
     ),
   },
   {
-    title: 'İcra ve İflas Hukuku',
+    title: 'Konya İcra ve İflas Hukuku',
     content: () => (
       <>
         İcra ve iflas hukuku alacaklının alacağına en kolay ve en hızlı yollardan kavuşabilmesi için devlet gücünden yararlanma imkanı sağlayan bir hukuk dalıdır. İcra ve İflas hukuku dalında, mahkeme kararlarının icra yolu ile tahsili, kambiyo senetlerinin (senet, çek, poliçe) icra yolu ile tahsil edilmesi ve adi bir belgeye dayanan herhangi bir belgeye dayanmayan alacakların icra yolu ile tahsili mümkündür. İflas ve konkordatonun sınır ve yöntemleri çizilmiş, alacaklı ve borçluların neler yapması gerektiği kurallara bağlanmıştır. Bu hukuk dalında hıza ve pratik çözümlere önem veren CBB Avukatlık Şirketi, müvekkillerine her türlü hukuki hizmeti sunmaktadır. Bu hizmetler dava vekilliği hizmeti ve danışmanlık hizmeti olarak ayrı ayrı yürütülmektedir. Bu alanda verilen dava vekilliği hizmetlerini ve danışmanlık hizmetlerimiz;
@@ -323,7 +323,7 @@ Unutulmamalıdır ki mal rejimleri, evlilikten önce düzenlenebildiği gibi evl
     ),
   },
   {
-    title: 'İcra ve İflas Hukuku Dava Vekilliği Hizmetleri',
+    title: 'Konya İcra ve İflas Hukuku Dava Vekilliği Hizmetleri',
     content: () => (
       <>
         1. İcra Ceza davaları
@@ -351,7 +351,7 @@ Unutulmamalıdır ki mal rejimleri, evlilikten önce düzenlenebildiği gibi evl
     ),
   },
   {
-    title: 'İcra ve İflas Hukuku Danışmanlık Hizmetleri',
+    title: 'Konya İcra ve İflas Hukuku Danışmanlık Hizmetleri',
     content: () => (
       <>
         1. İcra ihalelerine katılma
@@ -379,7 +379,7 @@ Unutulmamalıdır ki mal rejimleri, evlilikten önce düzenlenebildiği gibi evl
     ),
   },
   {
-    title: 'Ceza Avukatı',
+    title: 'Konya Ceza Avukatı',
     content: () => (
       <>
         Konyadaki devam eden ya da yeni açılan ceza davalarınız için ceza davalarının konusuna giren suçlar için savunmanızı yapacak avukat arayanlar için Konya Barosuna kayıtlı Konya Ceza Avukatı Hasan Basri Sarı ile dava dosyanız hakkında görüşmek, bilgi almak ve savunmanızı yapmanızı istiyorsanız lütfen iletişim sayfamızdaki telefon bilgilerimizden bize ulaşabilir randevu alabilirsiniz.
@@ -398,7 +398,7 @@ Konya Ceza Avukatı, ağır ceza mahkemesinin görev alanına giren suçlar konu
     ),
   },
   {
-    title: 'Ceza Davalarının Özellikleri',
+    title: 'Konya Ceza Davalarının Özellikleri',
     content: () => (
       <>
         Avukat Hasan Basri Hukuk Bürosu olarak, Konya Ağır ceza avukatlarının baktığı ağır ceza davaları, Türk Ceza Kanunu’nda ve bazı özel kanunlarda düzenlenmiş olan daha ciddi ve genel olarak cezası daha yüksek olan suç tiplerinin yargılamasının yapıldığı davalardır. Ağır ceza davalarına konu olan suç tiplerinin bazıları Ceza Muhakemesi Kanunu’nda “katalog suçlar” olarak ifade edilen ve tutuklama nedeninin varsayıldığı suçlar arasında olduğundan ve ayrıca ağır ceza mahkemesinin görev alanına giren suçların yasada öngörülen cezaları yüksek olduğundan ağır ceza davalarında tutuklama ve adli kontrol tedbirleri sıklıkla uygulanmaktadır. Tutuklama ve adli kontrol gibi güvenlik tedbirleri ağır ceza davalarında genelde uygulandığı için ağır ceza avukatları ile çalışmanın önemi bu anlamda artmaktadır. Zira tutuklu yargılama söz konusu olduğundan tutuklu şüphelinin veya sanığın bir an önce uzman bir avukat tarafından tahliye edilmesi kritik bir öneme sahiptir. Ağır ceza davalarında genelde tutuklama söz konusu olduğu için bu anlamda halk arasında en iyi ağır ceza avukatı en hızlı tahliye alan avukat olarak kabul edilmektedir.
@@ -406,7 +406,7 @@ Konya Ceza Avukatı, ağır ceza mahkemesinin görev alanına giren suçlar konu
     ),
   },
   {
-    title: 'Ceza Avukatı ve Ağır Ceza Davaları',
+    title: 'Konya Ceza Avukatı ve Ağır Ceza Davaları',
     content: () => (
       <>
         Aşağıdakilerle sınırlı olmamak üzere Ağır Ceza Mahkemesinin görev alanına giren ve ağır ceza avukatlarının takip ettiği ve halk arasında “ağır cezalık suçlar” olarak tabir edilen belli başlı suçlar genel olarak şunlardır:
@@ -458,7 +458,7 @@ Konya’da Ağır Ceza Avukatı arayanlar iletişim sayfamızdaki telefonlardan 
     ),
   },
   {
-    title: 'Ağır Ceza Avukatı',
+    title: 'Konya Ağır Ceza Avukatı',
     content: () => (
       <>
         Konya Ağır Ceza Mahkemelerindeki davalarınız için ihtiyaç duyduğunuz tecrübeli işini bilen bir avukat Hasan Basri Sarı ile dosyanız hakkında yüz yüze görüşerek davanın durumu ve avukatlık ücreti hakkında en iyi çözümü size sunacaktır. Avukat Hasan Basri Sarı, Konya Ağır Ceza Avukatı olarak tanınmış bir avukat olmakla birlikte müvekkillerinin istediği an istedikleri zaman randevusuz görüşebildiği, davalarına konu olan gelişmeler için her zaman ulaşabildikleri bir avukat özelliğide taşımaktadır.
@@ -469,7 +469,7 @@ Ceza Hukuku mevzuatı kapsamında soruşturma ve kovuşturma aşamalarının bü
     ),
   },
   {
-    title: 'Ağır Ceza ve Dava Vekilliği Hizmetleri',
+    title: 'Konya Ağır Ceza ve Dava Vekilliği Hizmetleri',
     content: () => (
       <>
         1. Sulh ceza davaları ve duruşmaları
@@ -489,7 +489,7 @@ Ceza Hukuku mevzuatı kapsamında soruşturma ve kovuşturma aşamalarının bü
     ),
   },
   {
-    title: 'Ağır Ceza Avukatları Ne İş Yapar?',
+    title: 'Konya Ağır Ceza Avukatları Ne İş Yapar?',
     content: () => (
       <>
         Bu soru sorulduğunda cevap olarak ilk şunu söyleyebiliriz: Ağır ceza davalarında soruşturmanın başından kovuşturmanın sonuna kadar, hatta bazen de kovuşturma evresinden sonra bile müvekkilini her aşamada en iyi şekilde temsil etmek için tüm hukuki işlemleri gerçekleştirmektedir. Müvekkilinin haklarını en iyi şekilde korumak ve savunmasını en etkili biçimde sağlamak, Ağır Ceza Avukatının temel görevleri arasında yer almaktadır. Özellikle soruşturma aşamasında ifadenin uzman Ağır Ceza Avukatı ile verilmesi sürecin işleyişi açısından önem taşımaktadır. Aynı zamanda mahkeme huzurunda gerçekleştirilecek olan savunmalar, dilekçelerin yazılması ve takibi, delillerin toplanması ve sunulması işlemlerinin doğru ve kusursuz bir biçimde gerçekleştirilmesi de Ağır Ceza Avukatının görev alanını oluşturmaktadır.
@@ -500,7 +500,7 @@ Ağır Ceza Avukatının görevlerinin içerisinde aynı zamanda ilk derece mahk
     ),
   },
   {
-    title: 'Ağır Ceza Mahkemelerinde Görülen Davalar Nelerdir?',
+    title: 'Konya Ağır Ceza Mahkemelerinde Görülen Davalar Nelerdir?',
     content: () => (
       <>
         Ağır Ceza Mahkemeleri tarafından görülmekte olan davalar, CMK ve sair kanunlar ile ayrıca yapılan görevlendirmeler saklı kalmak kaydıyla Türk Ceza Kanunu’nda belirtilen irtikap suçu, yağma suçu, nitelikli dolandırıcılık suçu, kasten adam öldürme suçu, örgütlü suçlar, soykırım suçu, işkence suçu, cinsel saldırı suçu, çocukların cinsel istismarı suçu vb. şeklinde sıralanabilir. Aynı zamanda ağırlaştırılmış müebbet, müebbet hapis ve 10 yıldan uzun süreli hapis cezasını gerektiren suçlara dair davalar da Ağır Ceza Mahkemelerinde görülmekte olup Ağır Ceza Avukatının görev alanı içerisinde yer almaktadır.
@@ -508,7 +508,7 @@ Ağır Ceza Avukatının görevlerinin içerisinde aynı zamanda ilk derece mahk
     ),
   },
   {
-    title: 'Ağır Ceza Davalarında Avukat Tutmak Zorunlu Mudur, Ağır Ceza Avukatı Ücretleri Ne Kadardır?',
+    title: 'Konya Ağır Ceza Davalarında Avukat Tutmak Zorunlu Mudur, Ağır Ceza Avukatı Ücretleri Ne Kadardır?',
     content: () => (
       <>
         Hukuk sistemimizde kural olarak avukatla temsil zorunlu değildir. Bu nedenle bazı insanlar maalesef bazı Ağır Ceza Avukatlarının Ücretlerinin kabul edilemez derecede yüksek olmasından dolayı spesifik davalarda tecrübeli bir avukat olmaksızın hukuki işlemler gerçekleştirmektedir. Bunun sonucunda da telafisi mümkün olmayan hak ve menfaat kayıplarıyla karşılaşmaktadır.
@@ -522,7 +522,7 @@ Sözgelimi; sanık ve ya şüpheliler için ağır ceza dava ve soruşturmaları
     ),
   },
   {
-    title: 'Ağır Ceza Avukatının İlgilendiği Suçlar Hangileridir?',
+    title: 'Konya Ağır Ceza Avukatının İlgilendiği Suçlar Hangileridir?',
     content: () => (
       <>
         Bir ağır ceza avukatı ağır ceza mahkemelerinin görev alanına giren her türlü suç ile ilgilenir. Ağır ceza mahkemelerinin görev alanına giren suçları ise temel olarak yağma, irtikap, resmi belgede sahtecilik, nitelikli dolandırıcılık, hileli iflas olarak saymak mümkündür. Cinsel saldırı, cinsel istismar, işkence, kasten öldürme, taksirle öldürme, banka ve kredi kartlarının kötüye kullanılması, örgüt, işkence, soykırım, parada sahtecilik suçları ile ilgili davalarda da görev alan avukatlar ağır ceza avukatlarıdır. Fakat anılan suçların yanında Türk Ceza Kanununda şu cezaların öngörüldüğü diğer suçlar da ağır ceza mahkemesi, dolayısıyla ağır ceza avukatlarının görev alanına girmektedir: ağırlaştırılmış müebbet hapis, müebbet hapis veya on yıldan fazla hapis cezası. Bu anlamda TCK’de düzenlenen Devletin Güvenliğine, Anayasal Düzene ve Bu Düzenin İşleyişine, Milli Savunmaya, Devlet Sırlarına Karşı Suçlar başlıkları altında düzenlenen suçlarla da ağır ceza avukatları ilgilenmektedir.
@@ -533,7 +533,7 @@ Ağır ceza mahkemelerinin görev alanına Terörle Mücadele Kanunu kapsamına 
     ),
   },
   {
-    title: 'Danışmanlık Hizmetleri',
+    title: 'Konya Danışmanlık Hizmetleri',
     content: () => (
       <>
         1. Acil hukuki yardım hal ve durumlarında temsil ve anında müdahale
@@ -549,7 +549,7 @@ Ağır ceza mahkemelerinin görev alanına Terörle Mücadele Kanunu kapsamına 
     ),
   },
   {
-    title: 'Miras Hukuku',
+    title: 'Konya Miras Hukuku',
     content: () => (
       <>
         Konya Miras Avukatı Hasan Basrı Sarı, Konya Miras Avukatı olarak Miras hukuku konularının kapmasında bulunan davalar için müvekkilerine Konya Miras Avukatı olarak hizmet vermektedir.
@@ -576,7 +576,7 @@ Miras Hukukunu Başlıca Konuları;
     ),
   },
   {
-    title: 'Tazminat Hukuku - Tazminat Davası',
+    title: 'Konya Tazminat Hukuku - Tazminat Davası',
     content: () => (
       <>
         Tazminat hukuku, haksız fiillerden veya başka herhangi bir nedenden kaynaklanan tazminat anlaşmazlıklarını konu alır. Genel olarak, “maddi tazminat davası” ve “manevi tazminat davası” olmak üzere iki tür tazminat davası vardır:
@@ -596,7 +596,7 @@ Maddi ve manevi tazminat davası; borçlar hukukundan kaynaklanan sözleşmenin 
     ),
   },
   {
-    title: 'İş ve Trafik Kazası Hukuku',
+    title: 'Konya İş ve Trafik Kazası Hukuku',
     content: () => (
       <>
         Trafik kazasında mağdur olduysanız, trafik kazası tazminat hakkınızı trafik kazalarında uzman bir avukat yardımı ile alabilirsiniz. Bu konuda uzman bir trafik kazası avukatı size profesyonel olarak yardımda bulunur. Trafik kazası tazminatının alınabilmesi için yaralanmalarda yaralanmanın miktarı, maluliyet puanı belirlenmesi gerekmektedir. Konya’da Trafik kazasında uzman bir avukat, sizin maluliyet oranınızın kısa zamanda alınmasında, yüksek puanlı olmasında, doğru mevzuata göre alınmasında etkili olabilmelidir. Trafik kazası tazminatının miktarında ve alınma süresinde maluliyet yani yaralanma puanı ve hesabı önemli bir etkendir. Trafik kazası tazminatının alınabilmesinde, tazminat miktarının belirlenmesinde kullanılacak hesaplama yöntemlerinden doğru olanların doğru bir şekilde kullanılması çok önemlidir. Uzman bir trafik kazası avukatının, bu hesaplamaları da tüm incelikleri ile biliyor olması gerekmektedir. Trafik kazası tazminatının alınma süresi de avukatın trafik kazası davalarında tecrübeli ve uzman bir avukat olması çok önem taşımaktadır. Trafik kazasında mağdur olduysanız, trafik kazası tazminatınızı almak istiyorsanız ve fakat uzman bir trafik kazası avukatınız yoksa tazminat hakkınıza kavuşmanız yıllarca uzaması söz konusu olabilecektir.
@@ -618,7 +618,7 @@ Avukat Hasan Basri Sarı, Konya Avukat, Konya Ağır Ceza Avukatları, Konya Ağ
     ),
   },
   {
-    title: 'Ticaret ve Şirketler Hukuku',
+    title: 'Konya Ticaret ve Şirketler Hukuku',
     content: () => (
       <>
         Şirket kuruluşu işlemleri, yabancı veya yerli şirketlerin Türkiye’de şube veya irtibat bürosu kuruluşlarının gerçekleştirilmesinde Avukat Hasan Basri Sarı Hukuk Bürosu olarak Konya’da;
